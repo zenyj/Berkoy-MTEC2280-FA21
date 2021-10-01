@@ -29,4 +29,6 @@ void draw() {
 
   //display image with image() method
   image (cupcake, width/2, height/2); 
+  //use .width and .height methods to call up size of image object
+  image (cupcake, width/3, height/2, cupcake.width/2, cupcake.height/2); 
 }
