@@ -1,5 +1,19 @@
-//From demo on functions!
-//Creating user-defined function for drawing ice cream cones
+
+/*
+From demo on user-defined functions!
+Creating user-defined function for drawing ice cream cones...
+
+FUNCTIONS HAVE THREE PARTS:
+  *Return type
+  *Function name
+  *(Optional) parameters
+  
+  returnType functionName (parameters){
+    statements;
+  }
+  
+*/
+
 
 
 void setup() {
